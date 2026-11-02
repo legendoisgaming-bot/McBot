@@ -1,4 +1,4 @@
-const mineflayer = require('mineflayer');
+const mineflayer = require('mineflayer')
 
 const config = {
     host: 'thelostmc2-0.mcsh.gg',     // Your server's exact IP address
