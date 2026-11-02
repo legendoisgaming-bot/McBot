@@ -4,7 +4,6 @@ const config = {
     host: 'thelostmc2-0.mcsh.gg',     // Your server's exact IP address
     port: 25565,                     // Default Minecraft network port
     username: 'ServerKeeper247',     // The custom bot username
-    version: '1.26.2'                // The specific server version
 };
 
 function createBot() {
